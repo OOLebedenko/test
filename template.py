@@ -7,3 +7,4 @@ def print_hello(name: str) -> None:
     :return:
     """
     # enter your code here
+    print("u popa bila sobaka")
